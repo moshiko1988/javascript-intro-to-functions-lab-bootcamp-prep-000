@@ -13,10 +13,10 @@ function logShout(string){
 function logWhisper(string){
   console.log('hello'.toLowerCase());
 }
+  var lowercase = 'hello!'
+function sayHiToGrandma(string){
 
-// function sayHiToGrandma(string){
-//   var lowercase = 'hello!'
-//   if (lowercase.toLowerCase() === lowercase) {
-//     return console.log("I can't hear you!");
-//   }
-// }
+  if (lowercase.toLowerCase() === lowercase) {
+    return console.log("I can't hear you!");
+  }
+}
