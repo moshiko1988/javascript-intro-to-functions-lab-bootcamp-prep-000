@@ -28,7 +28,7 @@ var uppercase = "HELLO!"
 // }
 
 function sayHiToGrandma(string){
-  console.log(`$(string)`);
+  console.log(`${string}`);
     if (lowercase.toLowerCase() === lowercase) {
         return "I can't hear you!";
     } else if (uppercase.toUpperCase() === uppercase ) {
@@ -37,3 +37,5 @@ function sayHiToGrandma(string){
         return "I love you, too."
       }
 }
+
+sayHiToGrandma(uppercase)
