@@ -39,3 +39,5 @@ function sayHiToGrandma(string){
 }
 
 sayHiToGrandma(uppercase)
+sayHiToGrandma(lowercase)
+sayHiToGrandma(uppercase)
