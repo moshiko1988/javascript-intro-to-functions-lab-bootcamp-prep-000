@@ -39,6 +39,6 @@ function sayHiToGrandma(string){
       }
 }
 
-sayHiToGrandma(uppercase)
-sayHiToGrandma(lowercase)
-sayHiToGrandma(other)
+sayHiToGrandma(uppercase);
+sayHiToGrandma(lowercase);
+sayHiToGrandma(other);
