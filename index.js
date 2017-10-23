@@ -1,3 +1,3 @@
-function(string){
+function shout (string){
 
 }
